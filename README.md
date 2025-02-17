@@ -34,3 +34,4 @@ These alternatives support older JDK versions or Android:
 [docs]: https://img.shields.io/github/deployments/tree-sitter/java-tree-sitter/github-pages?logo=githubpages&label=API%20Docs
 [FFM]: https://docs.oracle.com/en/java/javase/22/core/foreign-function-and-memory-api.html
 [jextract]: https://jdk.java.net/jextract/
+
